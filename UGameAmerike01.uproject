@@ -1,16 +1,3 @@
-{
-	"FileVersion": 3,
-	"EngineAssociation": "4.27",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "UGameAmerike01",
-			"Type": "Runtime",
-			"LoadingPhase": "Default",
-			"AdditionalDependencies": [
-				"Engine"
-			]
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d66bf792d4daeed0fbd9fe3e2d32ba696f5a5884a2911910d6319440687af09
+size 259
